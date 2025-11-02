@@ -42,8 +42,8 @@ O usuário informa o **peso (kg)** e a **altura (cm)**, e ao clicar em **"Calcul
 1. Clone o repositório
 
     ```bash
-    git clone https://github.com/seu-usuario/imc-calculator.git
-    cd imc-calculator
+    git clone https://github.com/kngvult/des-sistemas-moveis-ap2.git
+    cd des-sistemas-moveis-ap2-main
     ```
 
 2. Instale as dependências
